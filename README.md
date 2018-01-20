@@ -12,4 +12,6 @@
 01.12 17 - Meeting, Umsetzung MockUps : 1,5 Stunden  
 08.12.17 - Meeting, Mergen aller Branches, Bugfixing, Coding : 1,5Stunden  
 15.12.17 - Meeting, Daten anzeigen : 2 Stunden  
-05.01.17 - Meeting, fehlende MockUps, API-Anbindung : 3 Stunden
+05.01.18 - Meeting, fehlende MockUps, API-Anbindung : 3 Stunden  
+12.01.18 - Meeting, Kontaktliste laden, Kontakte suchen : 4 Stunden  
+19.01.18 - Meeting, Kontakte hinzufügen/löschen : 4 Stunden
