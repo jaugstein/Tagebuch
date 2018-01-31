@@ -14,4 +14,6 @@
 15.12.17 - Meeting, Daten anzeigen : 2 Stunden  
 05.01.18 - Meeting, fehlende MockUps, API-Anbindung : 3 Stunden  
 12.01.18 - Meeting, Kontaktliste laden, Kontakte suchen : 4 Stunden  
-19.01.18 - Meeting, Kontakte hinzufügen/löschen : 4 Stunden
+19.01.18 - Meeting, Kontakte hinzufügen/löschen : 4 Stunden  
+24.01.18 - Meeting, Präsi Vorbereitung/Besprechung : 2,5 Stunden  
+26.01.18 - Präsentation Testlauf und letzte Fixes: 4 Stunden  
